@@ -1,0 +1,5 @@
+[workstation]
+192.168.56.102 ansible_python_interpreter=/usr/bin/python3 
+
+[databaseserver]
+192.168.56.103 ansible_python_interpreter=/usr/bin/python3
