@@ -3,3 +3,7 @@
 
 [databaseserver]
 192.168.56.103 ansible_python_interpreter=/usr/bin/python3
+
+[CentOs]
+192.168.56.108
+
